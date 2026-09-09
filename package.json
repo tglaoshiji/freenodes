@@ -33,7 +33,7 @@
     "hexo-theme-butterfly": "^5.5.3",
     "hexo-theme-keep": "^4.2.5",
     "hexo-wordcount": "^6.0.1",
-    "katex": "^0.16.22",
+    "katex": "^0.18.6",
     "markdown-it-task-lists": "^2.1.1"
   }
 }
