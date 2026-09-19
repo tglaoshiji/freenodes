@@ -22,7 +22,7 @@ keywords: clash,clash节点,mihomo,ss,ssr,trojan,v2ray,v2ray节点,vmess,免费�
 
 ➖➖➖➖➖➖➖➖➖➖
 
-### [🐮88云加速机场 10元/月 每月200g ](https://88cloud.pages.dev/)
+### [🐮88云加速机场 10元/月 每月200g ](https://qq.88cloud.dpdns.org/)
 
 ➡️不跑路 ➡️快 ➡️稳 ➡️服务好
 
@@ -34,7 +34,7 @@ keywords: clash,clash节点,mihomo,ss,ssr,trojan,v2ray,v2ray节点,vmess,免费�
 
 🔥 大流量下载专用节点
 
-### ✈️ [TG群组 ](https://t.me/+gfS8zRPNWMdmMjg1)          🔗[ 官方网站 ](https://88cloud.pages.dev/)
+### ✈️ [TG群组 ](https://t.me/+gfS8zRPNWMdmMjg1)          🔗[ 官方网站 ](https://qq.88cloud.dpdns.org/)
 
 ### 注册地址：[【88云加速官网（点击注册）】 ](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
@@ -42,13 +42,13 @@ keywords: clash,clash节点,mihomo,ss,ssr,trojan,v2ray,v2ray节点,vmess,免费�
 
 ## 高速机场推荐1
 
-### [[【冲上云霄】 ]](https://88cloud.pages.dev/#/register?code=LSpR3sOK)
+### [[【冲上云霄】 ]](https://qq.88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
 试用：1天 1G
 
 无视高峰，不限制设备数量，全天4K秒开，机房遍布全球，IP多多益善，99%流媒体解锁，油管、葫芦、奈菲，小电影丝般顺滑！ IPLC、IEPL中转，点对点专线连接。高速冲浪，科学上网不二选择，现在注册即可免费试用！
 
-### 网站注册地址：[【冲上云霄（点击注册）】 ](https://88cloud.pages.dev/#/register?code=LSpR3sOK)
+### 网站注册地址：[【冲上云霄（点击注册）】 ](https://qq.88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
 ➖➖➖➖➖➖➖➖➖➖
 
