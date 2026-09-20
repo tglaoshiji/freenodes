@@ -2,8 +2,8 @@ name: Auto Create Today Post & Update README
 
 on:
   workflow_dispatch: # 允许在 GitHub 后台手动触发
-  # schedule:
-  #   - cron: '0 0 * * *' # 如果需要每天定时自动运行，可取消此行注释
+  schedule:
+    - cron: '0 1 * * *' # 
 
 jobs:
   create-post:
@@ -26,6 +26,7 @@ jobs:
           import glob
           import datetime
           import re
+          import random
 
           posts_dir = "source/_posts"
           if not os.path.exists(posts_dir):
@@ -44,9 +45,8 @@ jobs:
           today_file_date_str = f"{today_year}-{today_month_no_zero}-{today_day_no_zero}"
           today_standard_date_str = f"{today_year}-{today_month_zero}-{today_day_zero}"
 
-          # 各种目标格式
           target_chinese_date = f"{today_year}年{today_month_no_zero}月{today_day_no_zero}日"
-          target_short_chinese_date = f"{today_month_no_zero}月{today_day_no_zero}日" # 兼容只有月日的情况
+          target_short_chinese_date = f"{today_month_no_zero}月{today_day_no_zero}日"
           target_slash_date = f"{today_year}/{today_month_no_zero}/{today_day_no_zero}"
           target_compact_date = f"{today_year}{today_month_zero}{today_day_zero}"
 
@@ -86,28 +86,28 @@ jobs:
                   else:
                       # 读取旧文件内容
                       with open(latest_file, 'r', encoding='utf-8') as f:
-                          content = f.read()
+                        content = f.read()
 
-                      # 1. 替换短横线日期
+                      # 日期替换
                       new_content = re.sub(r'\b20\d{2}-\d{1,2}-\d{1,2}\b', today_file_date_str, content)
-
-                      # 2. 替换完整中文日期（带年份：如 2026年9月19日、2026年09月19号）
                       new_content = re.sub(r'20\d{2}年\d{1,2}月\d{1,2}[日号]', target_chinese_date, new_content)
-
-                      # 3. 【新增】：替换只有月日的中文日期（不带年份：如 9月19日、09月19号）
                       new_content = re.sub(r'\b\d{1,2}月\d{1,2}[日号]', target_short_chinese_date, new_content)
-
-                      # 4. 替换斜杠日期
                       new_content = re.sub(r'\b20\d{2}/\d{1,2}/\d{1,2}\b', target_slash_date, new_content)
-
-                      # 5. 替换紧凑连写日期
                       new_content = re.sub(r'\b20\d{2}\d{2}\d{2}\b', target_compact_date, new_content)
+
+                      # 随机替换测速数字
+                      def random_speed(match):
+                          val = round(random.uniform(10.0, 35.0), 1)
+                          suffix = match.group(2)
+                          return f"{val}{suffix}"
+
+                      new_content = re.sub(r'\b\d+(\.\d+)?([Mm][Bb]?/[Ss]|[Mm][Bb][Pp][Ss])\b', random_speed, new_content)
 
                       # 写入新文件
                       with open(new_file, 'w', encoding='utf-8') as f:
                           f.write(new_content)
 
-                      print(f"Successfully created new post: {new_file} with date {today_file_date_str}")
+                      print(f"Successfully created new post: {new_file} with randomized speed and date")
 
           # ----------------- 2. 自动更新根目录下的 README.md -----------------
           readme_path = "README.md"
@@ -132,5 +132,5 @@ jobs:
       - name: 提交并推送修改
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: auto-generate post for today and update full/short date formats"
+          commit_message: "chore: daily auto-update posts and README"
           branch: main
