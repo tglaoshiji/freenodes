@@ -301,7 +301,7 @@ aside:
       enable: true
       icon: fab fa-github
       text: Like Stars 🌟🌟
-      link: https://tglaoshiji.github.io/aa
+      link: https://tglaoshiji.github.io/freenodes
   card_announcement:
     enable: true
     content: 每日精选SSR/V2ray/Clash免费节点每天更新.供大家免费使用，支持ss/ssr/v2ray/vmess/trojan/clash等众多协议
