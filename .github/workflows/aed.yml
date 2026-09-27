@@ -108,7 +108,7 @@ jobs:
 
                       # 随机替换测速数字
                       def random_speed(match):
-                          val = round(random.uniform(10.0, 35.0), 1)
+                          val = round(random.uniform(5.0, 10.0), 1)
                           suffix = match.group(2)
                           return f"{val}{suffix}"
 
