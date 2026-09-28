@@ -13,13 +13,13 @@
 # 高速机场推荐:
 
 *  *  *
-### [【88云加速】](https://qq.88cloud.dpdns.org/#/register?code=n4KLfZJb)
+### [【88云加速】](https://www.8891888.xyz/#/register?code=n4KLfZJb)
 
 原生支持解锁流媒体，内容包括 Netflix、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
 最便宜的订阅有10元 300G/月
 解锁奈飞迪士尼
 
-注册地址：[【88云加速（点击注册）】](https://qq.88cloud.dpdns.org/#/register?code=n4KLfZJb)
+注册地址：[【88云加速（点击注册）】](https://www.8891888.xyz/#/register?code=n4KLfZJb)
 
 *  *   *
 
