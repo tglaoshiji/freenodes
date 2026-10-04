@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 10月4日 | 最高速度12.8.9M/S，最新SSR/V2ray/Clash/Shadowrocket/Mihomo免费节点高速订阅链接
+title:  10月4日 | 最高速度12.8.9M/S，最新SSR/V2ray/Clash/Shadowrocket/Mihomo免费节点高速订阅链接
 tags:  [clash,clash节点,mihomo,ss,ssr,trojan,v2ray,v2ray节点,vmess,免费节点,订阅地址,订阅链]
 categories: [免费节点, 科学上网]
 description: 2026年10月4日节点说明 节点数量：50个 最高速度：8.5M/S 节点区域：美国、欧洲、香港、台湾、日本、韩国、新加坡等 clash订阅链接 v2ray订阅链接
@@ -94,11 +94,11 @@ keywords: clash,clash节点,mihomo,ss,ssr,trojan,v2ray,v2ray节点,vmess,免费�
 
 **v2ray订阅链接:**
 
-https://stairnode.cczzuu.top/2026/09/stair-20261004.txt
+https://stairnode.cczzuu.top/2026/10/stair-20261004.txt
 
 **clash订阅链接**
 
-https://stairnode.cczzuu.top/2026/09/stair-20261004.yaml
+https://stairnode.cczzuu.top/2026/10/stair-20261004.yaml
 
 
 
