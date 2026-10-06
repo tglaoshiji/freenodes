@@ -95,11 +95,11 @@ top:  1
 
 **v2ray订阅链接:**
 
-https://stairnode.cczzuu.top/2026/09/stair-20261006.txt
+https://stairnode.cczzuu.top/2026/10/stair-20261006.txt
 
 **clash订阅链接**
 
-https://stairnode.cczzuu.top/2026/09/stair-20261006.yaml
+https://stairnode.cczzuu.top/2026/10/stair-20261006.yaml
 
 
 
