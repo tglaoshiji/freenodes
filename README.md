@@ -1,5 +1,5 @@
  
-## 更新时间 2026-10-13
+## 更新时间 2026-10-14
 
 ### 关注<span style="color: #ff0000;"><a style="color: #ff0000;" href="https://t.me/clashjd">「TG频道</a>」</span>可第一时间获得节点更新消息，还可解锁神秘高速节点！!!!!
 
@@ -81,17 +81,7 @@
 
 最大的缺点就是太便宜了
 
-### [稳连云](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0)
 
-注册链接：[点击进入](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0)
-
-试用：
-
-最便宜的订阅有5元 1000G/月。
-
-流媒体解锁；支持协议vmess；仅限本人使用；不限制本人设备数；500M 峰值带宽
-
-* * *
 
 ### [狗狗加速器](https://www.dginv.click/#/register?code=yi5aid0d)
 
