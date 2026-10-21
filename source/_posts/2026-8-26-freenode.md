@@ -71,13 +71,13 @@ keywords: clash,clash节点,mihomo,ss,ssr,trojan,v2ray,v2ray节点,vmess,免费�
 
 ### 注册地址：【[西游云官网（点击注册）](https://d.xiyou666.xyz/?code=2mVFWPT1) 】
 
-## 高速机场推荐5[【快猫】](https://cf3.ikuaimao.world/#/register?code=9xg6G0AV)
+## 高速机场推荐5[【快猫】](https://www.8891888.xyz/#/register?code=9xg6G0AV)
 
 季付送小火箭，流量多，优惠多
 
 而且不限登录设备数，解锁奈飞
 
-### 注册地址：[【快猫官网（点击注册）】](https://cf3.ikuaimao.world/#/register?code=9xg6G0AV)
+### 注册地址：[【快猫官网（点击注册）】](https://www.8891888.xyz/#/register?code=9xg6G0AV)
 
 <h3><span style="color: #ff0000;">🚀 <a style="color: #ff0000;" href="https://www.112112789.xyz/?path=register&code=7Y5uXPTq">飞鸟加速            点击注册</a> </span></h3>
 <h3>· 高速·稳定·无限可能</h3>
