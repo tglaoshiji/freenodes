@@ -60,13 +60,13 @@ keywords: clash,clash节点,mihomo,ss,ssr,trojan,v2ray,v2ray节点,vmess,免费�
 
 ### 注册地址：【[星辰官网（点击注册）](http://c.xcvpn.me/?code=tLBWwhPs) 】
 
-## 3.高速机场推荐[【超实惠机场】](https://cshjc.top/web/#/login?code=3gGou0QQc) 
+## 3.高速机场推荐[【超实惠机场】](https://www.8891888.xyz/#/login?code=3gGou0QQc) 
 
 **全球流媒体 & ChatGPT 解锁**：兼容 Netflix、YouTube、AI 工具
 
 **多协议高速中转：**Vless/Hysteria2/SS/VMess 等
 
-### 注册地址：【[超实惠官网（点击注册）](https://cshjc.top/web/#/login?code=3gGou0QQc) 】
+### 注册地址：【[超实惠官网（点击注册）](https://www.8891888.xyz/#/login?code=3gGou0QQc) 】
 
 ## 4.高速机场推荐[【西游云】](https://www.xiyou666.xyz/?code=2mVFWPT1)
 
