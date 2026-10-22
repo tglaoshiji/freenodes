@@ -125,12 +125,12 @@
 * * *
 
 ### 高速机场推荐1 快猫
-高速机场推荐1 [【快猫】](https://cf4.ikuaimao.cloud/#/register?code=9xg6G0AV)
+高速机场推荐1 [【快猫】](https://www.8891888.xyz/#/register?code=9xg6G0AV)
 季付送小火箭，流量多，优惠多
 
 而且不限登录设备数，解锁奈飞
 
-👉[[点击注册]](https://cf4.ikuaimao.cloud/#/register?code=9xg6G0AV)
+👉[[点击注册]](https://www.8891888.xyz/#/register?code=9xg6G0AV)
 
 
 ### 高速机场推荐3 轻云
