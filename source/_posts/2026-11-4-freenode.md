@@ -94,12 +94,11 @@ keywords: clash,clash节点,mihomo,ss,ssr,trojan,v2ray,v2ray节点,vmess,免费�
 
 **v2ray订阅链接:**
 
-https://stairnode.cczzuu.top/2026/11/stair-20261104.txt
+https://raw.githubusercontent.com/zhuhaiuk/free-nodes/main/nodes.txt
 
 **clash订阅链接**
 
-https://stairnode.cczzuu.top/2026/11/stair-20261104.yaml
-
+https://raw.githubusercontent.com/zhuhaiuk/free-nodes/main/clash_config.yaml
 
 
 ### Tips
